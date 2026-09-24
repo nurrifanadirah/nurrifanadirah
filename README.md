@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nurrifanadirah
-- 👀 I’m interested in UI/UX Design and Game Development
+- 👀 I’m interested in HRIS and Game Development
 - 🌱 I’m currently learning HTML5, CSS, Python, SQL, R, C, and C++
 - 📫 You can reach me by e-mail: nurrifanadirah@gmail.com
